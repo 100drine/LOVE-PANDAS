@@ -1,0 +1,14 @@
+{
+  "name": "love-pandas",
+  "version": "1.0.0",
+  "description": "Cliquer sur un bouton et afficher le type et la tendance correspondants",
+  "main": "panda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
